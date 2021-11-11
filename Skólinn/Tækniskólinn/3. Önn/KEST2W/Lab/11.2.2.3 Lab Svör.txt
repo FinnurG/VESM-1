@@ -1,0 +1,24 @@
+Question:
+What is the advantage of having most users work within a Standard user account?
+
+Svar: Betra security gegn öðru fólki að breyta mikilvægum stillingum og meiri stjórn fyrir administrator
+
+Question:
+For this lab, select Delete Files. What are the other options? When would you choose the other options?
+
+Svar: Keep Files er notað ef það eru skjöl á accountinum sem þú ert að eyða sem þú þarft
+
+Question:
+Why is it important to protect all accounts with strong passwords?
+
+Svar: Aukið öryggi
+
+Question:
+Why would you create a user with Standard privileges?
+
+Svar: Ef td þú ert yfir tölvukervi á fyrirtæki hefur þú meyri stjórn sem administrator
+
+Question:
+In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
+
+Svar: Ef starfsmaður fyrirtækinu hættir eða er rekinn en er með skjöl sem þú vilt eiga

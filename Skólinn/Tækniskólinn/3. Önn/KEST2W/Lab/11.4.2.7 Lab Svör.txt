@@ -1,0 +1,54 @@
+Question:
+What is the current directory?
+
+Svar: C:\Users\Finnur Gauti
+
+Question:
+Which folder are you in now?
+
+Svar:  C:\Users\Finnur Gauti\ITEfolder3
+
+Question:
+What command or commands did you use to create the nested folders?
+
+Svar: C:\UsersFinnur Gauti\ITEfolder3> md ITEfolder4\ITEfolder5
+
+Question:
+After issuing the cd .. command, what is your directory now?
+
+Svar: C:\Users\Finnur Gauti
+
+Question:
+After issuing the cd .. command, what is your directory now?
+
+Svar: C:\Users\Finnur Gauti\ITEfolder3\ITEFolder4
+
+Question:
+What would be the current directory if you issue this command at C:\Users\ITEfolder4?
+
+Svar: C:\Users\Finnur Gauti\ITEFolder3
+
+Question:
+What single command would you use to delete all the files with doc2 in the filename? Use the command to remove the files with doc2 in the filename.
+
+Svar: C:\Users\Finnur Gauti\ITEfolder1> del doc2*
+
+Question:
+What command would you use to delete all the files in the directory? Use the command to remove the files.
+
+Svar: C:\Users\Finnur Gauti\ITEfolder1> del *.*
+
+Question:
+What option allows you to copy all the files and directories, including the empty directories?
+
+Svar: /E
+
+Question:
+Were you able to delete the directory? Explain.
+
+Svar: Nei því directoryið er ekki tómt
+
+Reflection Question:
+What are the advantages of using CLI vs. GUI?
+
+Svar: CLI gefur meiri valmöguleika en GUI og breytist ekkert með updatum eins og GUI t.d. nýja windows 11 er miklu öðruvísi GUI en windows 10 sama með 10 og 8.1 og 8.1 og 7 etc etc..

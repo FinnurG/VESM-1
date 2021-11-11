@@ -1,0 +1,30 @@
+Question:
+What key or combination of keys is used to run Setup on your computer?
+
+Svar: F11
+
+Questions:
+Who is the manufacturer of the BIOS?
+
+Svar: ASRock
+
+Which BIOS version is installed in your computer?
+Svar: H110M-HDV P1.80
+
+Questions:
+What is the current BIOS version available for the motherboard?
+
+Svar: Version 7.60
+
+What features, if any, have been added to the new BIOS version?
+
+Svar: Skylake CPU compatability, Improved DRAM compatability, Added TPM2.0 setup menu, 
+
+What changes, if any, have been made to the new BIOS version to fix problems?
+
+Svar: Update to Intel Microcode, Update to TPM module, Update to EZ mode, 
+
+What are the instructions to update the new BIOS version?
+
+Svar: Instant Flash
+

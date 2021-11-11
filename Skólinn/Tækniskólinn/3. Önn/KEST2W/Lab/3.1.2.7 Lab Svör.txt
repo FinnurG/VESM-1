@@ -1,0 +1,11 @@
+Question:
+What is the default installation location for Packet Tracer?
+
+Svar: Program Files eða C:\Program Files\Cisco PacketTracer 8.0.1
+
+
+Reflection Question:
+Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
+
+Svar: Ef þú eyðir bara exe fileinu eða folderinnu eyðir það ekki öllum skjölum sem forritið bjó til þannig það mun vera fult af "temp files" eða öðrum skjölum sem forritið myndi þurfa þannig Microsoft Uninstall eyðir öllum skjölum sem forritið bjó til.
+

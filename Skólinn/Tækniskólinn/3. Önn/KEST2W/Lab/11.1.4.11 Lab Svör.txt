@@ -1,0 +1,69 @@
+Question:
+What happened with Folder1 and Folder2 on the Desktop?
+
+Svar: Folder2 hvarf og fór inní Folder1
+
+Question:
+What is the file extension for the text document?
+
+Svar: .txt
+
+Question:
+How would you do it?
+
+Svar: Hægri smella Text fileið og smella á copy og svo fara inní Folder2 og hægri smella Paste
+
+Question:
+Right-click the text document > click Properties. Click the Details tab. What are the attributes associated with this file?
+
+Svar: Attributes = A
+
+Question:
+What is the complete path to Folder3? (Hint: One way to find this information is in the folder properties.)
+
+Svar: C:\Users\Finnur Gauti\Desktop\Folder1\Folder2
+
+Question:
+In Windows 8.x and 10, which directories are listed under Folders? (Note: There is no Folders heading in Windows Explorer.)
+
+Svar: 3D Objects, Desktop, Documents, Downloads, Music, Pictures, Videos
+
+Question:
+What happened? Why would you want to do this?
+
+Svar: Folder1 er pinned á Frequent Folders það léttir þér lífið ef þú vilt fara oft í Folder1
+
+Question:
+What are folders listed in the Local Disk (C:)?
+
+Svar: Intel, PerfLogs, Program Files, Program Files (x86), Users, Windows
+
+Question: 
+Open the Users folder. List all the folders in the directory.
+
+Svar: Finnur Gauti, Public
+
+Question:
+Were you able to open it? Explain.
+
+Svar: Já því ég er loggaður inn á minn aðgang eða ef ég væri á administrator aðgangi
+
+Question:
+Were you able to open it? Explain. (Note: Windows 7 does not display other users’ folders.)
+
+Svar: Er ekki með annan aðgang á tölvunni en það mundi ekki leyfa mér því ég er ekki á administrator aðgangi
+
+Question:
+Open the Public folder. List all the folders in the directory.
+
+Svar: Public Documents, Public Downloads, Public Music, Public Pictures, Public Videos
+
+Question:
+Which folders or files listed under the Libraries heading?
+
+Svar: Camera Roll, Documents, Music, Pictures, Saved Pictures, Videos
+
+Question:
+How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
+
+Svar: Fara í Libraries smella á Library Tools og svo Manage library og smella á Folder1 og svo smella á Remove

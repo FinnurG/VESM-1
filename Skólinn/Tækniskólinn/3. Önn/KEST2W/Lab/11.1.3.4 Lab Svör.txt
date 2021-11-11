@@ -1,0 +1,109 @@
+Question:
+What happened?
+
+Svar: Það kom "Oh Snap!" og síðann lokaðist google chrome
+
+Question:
+What options are available?
+
+Svar: Expand, End task, Resource values, Provide feedback, Search online
+
+Question:
+What statuses are listed?
+
+Svar: Cortana, Intel Graphics Command ..., Microsoft OneDrive, Skype, Windows Security notificati...
+
+Question:
+What are the available actions that can be taken?
+
+Svar: Disable, Search online
+
+Question:
+What is the current utilization of the CPU?
+
+Svar: 1%
+
+Question:
+How many streams of instructions (i.e. Threads) are currently running?
+
+Svar: 1174
+
+Question:
+How many Apps, Background processes, and Windows processes (i.e Processes) are currently running?
+
+Svar: Apps = 4, Background processes = 39, Windows processes = 77
+
+Question:
+What is the total physical memory (MB)?
+
+Svar: 16384 MB
+
+Question:
+What is the available physical memory (MB)?
+
+Svar: 13004.8 MB
+
+Question:
+How much physical memory (MB) is being used by the computer?
+
+Svar: 2867.2 MB
+
+Question:
+What is the link speed? What type of Ethernet Adapter is in use on this computer?
+
+Svar: 100/100Mbps, Realtek PCIe GbE Family Controller
+
+Question:
+What type of network connection (i.e Connection type) is in use?
+
+Svar: Ethernet
+
+Question:
+What is the IPv4 address of the PC?
+
+Svar: 10.11.214.87
+
+Question:
+What effect does this have on the columns?
+
+Svar: Það raðar listanum eftir hversu mikið vinnsluminni forritið tekur upp
+
+Question:
+What affect does this have on the Memory column?
+
+Svar: Raðar listanum eftir hversu mikið prósent af vinnsluminninu það tekur upp í heild og er altaf jafnt og það sem stendur í Memory td 19%
+
+Question:
+How could this be useful?
+
+Svar:Til að sjá hvaða forrit nota mest af vinnsluminni þínu ef þú þarft að nota meira í eitthvað annað eða villt ekki hafa td chrome að taka upp mikið minni
+
+Question:
+The listed processes are divided by categories. What categories are listed?
+
+Svar: Apps, Background processes, Windows processes
+
+Question:
+Right-click a username. What are the available options?
+
+Svar: Expand, Disconnect, Manage user accounts
+
+Question:
+The Startup tab lists the processes that are started automatically during Windows startup. Click the startup tab. Right-click a process and list the available options below.
+
+Svar: Disable, Search online
+
+Question:
+What type of information can you get from this list?
+
+Svar: Name, CPU time, Network, Metered network, Tile updates
+
+Question:
+The Details tab displays process information such as process ID (PID), status, and memory utilization. Right-click a process and list the available options below.
+
+Svar: End task, End process tree, Provide feedback, Set priority, Set affinity, Analyze wait chain, UAC virtulization, Create dump file, Open file location, Search online, Properties, Go to service(s)
+
+Reflection Question:
+Why is it important for an administrator to understand how to work within the Task Manager?
+
+Svar: Mjög gott til að troubleshoota eða til að finna forrit sem nota mikið af tölvu power sem gætu verið spilliforrit eða eitthvað slíkt

@@ -1,0 +1,65 @@
+Processor: Intel(R) Pentium(R) CPU G4400 @ 3.3GHz, 3300 Mhz, 2 core(s), 2 Logical pro...
+
+BIOS Version/Date: American Megatrends Inc. P1.80 7/12/2016
+
+Total Physical Memory: 15.7 GB
+
+Question:
+DMA channels and the device using the resources.
+
+Svar: Ekkert device er að nota DMA
+
+Adapter Description: Intel(R) HD Graphics 510
+
+Adapter RAM: 1.00 GB (1,073,741,824 bytes)
+
+Question:
+Under the Software Environment heading, where would you find the applications that automatically load when the computer boots?
+
+Svar: Startup Programs
+
+Question:
+What are the startup options?
+
+Svar: Normal startup, Diagnostic startup, Selective startup
+
+Question:
+Can you enable and disable services at this tab?
+
+Svar: Já
+
+Question:
+What can you do in this tab?
+
+Svar: Séð og opnað forrit sem geta hjálpað að diagnosta eða troubleshoota eitthvað
+
+Question:
+What does this tool report?
+
+Svar: Upplisingar um DirectX components og drivers
+
+Question:
+What information is listed on this page?
+
+Svar: Upplisingar um GPU
+
+Question:
+What information is listed on this page?
+
+Svar: Upplisingar um sound devices og drivera þeiira
+
+Question:
+What information is listed on these extra tabs?
+
+Svar: Input sem gefur upplisingar um input devices td mús og lyklaborð
+
+Reflection Questions
+Question: 
+Why would it be beneficial to turn off a service in the system configuration?
+
+Svar: Ef það er að láta tölvuna bila eða gera eitthvað sem hún á ekki að gera
+
+Question:
+When would you use the startup tab of the system configuration tool?
+
+Svar: Ef eitthvað forrit er að bila tölvuna eða láta tölvuna starta upp miklu hægar

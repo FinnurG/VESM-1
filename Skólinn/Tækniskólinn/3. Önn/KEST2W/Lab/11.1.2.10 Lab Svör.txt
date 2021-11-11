@@ -1,0 +1,55 @@
+Question:
+List some of the icons that are on the Desktop.
+
+Svar: Recycle Bin, Folderið mitt, Google Chrome Shortcut, Cisco Packet Tracer Shortcut
+
+Question:
+What type of information is available on the Desktop and Taskbar?
+
+Svar:  Windows takki, Search Bar, Cortana takki, Veður takki, tími og dagur
+
+Question:
+Name a few applications listed in the Start Menu
+
+Svar: Power Takki, Video editor, Calculator, Calander, Alarms & Clock, Office
+
+Question:
+What are some of the available options?
+
+Svar: Pin to start, More, Uninstall
+
+Question:
+What are the available options in the Taskbar settings?
+
+Svar: Lock the taskbar, Automatically hide the taskbar in desktop mode, Automatically hide the taskbar in tablet mode, Use small taskbar buttons
+
+Question:
+What are the available options in the Task View settings?
+
+Svar: New Desktop, Earlier Today, See more days in timeline
+
+Question:
+What happened?
+
+Svar: Það færði mig yfir á Desktop 1
+
+Question: 
+The Notification area on the right edge of the Taskbar provides system information.
+List some examples of system information below.
+
+Svar: System Updates, ef þú ert með teams td notifications frá því 
+
+Question:
+What are the behavior options for the icons?
+
+Svar: Get notifications from apps and other senders, AutoPlay, Settings, Microsoft Store
+
+Question:
+Click Turn system icons on or off. List the system icons that can be enabled.
+
+Svar: Clock, Volume, Network, Input Indicator, Locations, Action Center, Microphone, Meet Now
+
+Question:
+What can you do in the Notification & actions Settings window?
+
+Svar:Hægt er að sjá notifications og settings á sumum forritum

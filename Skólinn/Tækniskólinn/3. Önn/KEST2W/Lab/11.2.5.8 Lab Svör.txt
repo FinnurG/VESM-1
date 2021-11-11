@@ -1,0 +1,24 @@
+Question:
+What is the current size of the virtual memory (paging file)?
+
+Svar: 2944 MB
+
+Question:
+What Drive [Volume Label] contains the paging file?
+
+Svar: C Drive
+
+Question:
+What is the recommended paging file size for all drives?
+
+Svar: 2906 MB
+
+Question:
+What Drive [Volume Label] contains the paging file?
+
+Svar: I Drive
+
+Reflection Question:
+Why would you ever change the default virtual memory page file settings in Windows?
+
+Svar: Ef þú vilt færa það yfir á hraðari disk td. frá HDD yfir á SSD

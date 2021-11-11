@@ -1,0 +1,40 @@
+Question:
+What is the option to fix errors on the drive?
+
+Svar: /F
+
+Question:
+What is the option to force the volume to dismount first if necessary?
+
+Svar: /X
+
+Question:
+What is the option to locate bad sectors and recover readable information?
+
+Svar: /R
+
+Question:
+What happened? Explain.
+
+Svar: Access was denied because you do not have sufficient privileges.
+
+Question:
+What is the file system of the drive?
+
+Svar: NTFS
+
+Question:
+Enter list partition to list all the partitions on the disk. How partitions are on the disk?
+
+Svar: Partition 1 Recovery 16 GB 1024 KB, Partition 2 System 100 MB 16 GB, Partition 3 Reserved 16 MB 16 GB, Partition 4 Primary 211 GB 16 GB, Partition 5 Recovery 1000 MB 237 GB
+
+Question:
+What option is used to determine the maximum number of bytes that the volume can be shrink by?
+
+Svar: querymax
+
+Question:
+What is the maximum number of reclaimable bytes?
+
+Svar: Virkar ekki kemur error "You may not shrink OEM, ESP, or recovery partitions, or, offline volumes. The volume you have selected may not be shrunk. Please select another volume and try again."
+

@@ -1,0 +1,14 @@
+Kílómetri = x1000 á latínu
+Hektó = x100 á latínu
+deka = x10 á latínu
+metri / gram / lítri = grunnurinn 
+desi  = 1/10 á latínu
+senti  = 1/100 á latínu
+milli  = 1/1000 á latínu
+
+M Reglan = legginir á M sett samann er toppurinn á M
+Frændhorn = sama og grannhorn nema gat er á milli //
+Grannhorn = nágranna horn (hafa sömu lóð) /_/
+Topphorn = á móti er jafn stórt
+
+Evklíðsk Rúmfraeði = allir þrihyrningar eru 180° (því hringar eru 360° og skifti i tvent)

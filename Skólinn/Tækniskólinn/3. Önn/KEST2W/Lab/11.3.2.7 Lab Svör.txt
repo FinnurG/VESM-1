@@ -1,0 +1,50 @@
+Question:
+What was the path you use to navigate to the Event Viewer?
+
+Svar: Folder > Computer Management (Local) > System tools > Event Viewer
+
+Question:
+What is the background picture?
+
+Svar: Default myndin, því það er ekki búið að activata windows
+
+Question:
+What is the data value of the Background (hint – it has three numbers that correspond to red, green, and blue)?
+
+Svar: Ekki hægt (Er ekki með activated windows)
+
+Question:
+What is the data value of the Background?
+
+Svar: Ekki hægt (Er ekki með activated windows)
+
+Question:
+What is the data value of the Background? Compare the new value in the Registry to the value saved in BlueBKG.reg.
+
+Svar: Ekki hægt (Er ekki með activated windows)
+
+Question:
+What is the data value of the Background?
+
+Svar: Ekki hægt (Er ekki með activated windows)
+
+Question:
+What is the color of the desktop?
+
+Svar: Ekki hægt (Er ekki með activated windows)
+
+Question:
+What is the color  of the desktop?
+
+Svar: Ekki hægt (Er ekki með activated windows)
+
+Reflection Question:
+After restarting the computer, why was the desktop color changed?
+
+Svar: Ekki hægt (Er ekki með activated windows)
+
+Reflection Question:
+Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?
+
+Svar: Til að vera meiri skipulegri þannig það er léttara að laga hluti eða troubleshoota
+

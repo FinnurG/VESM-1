@@ -1,0 +1,99 @@
+Question:
+What are the viewing options?
+
+Svar: Category, Large icons, Small icons
+
+Question:
+Name a few of the Control Panel categories.
+
+Svar: System and Security, Network and Internet, Hardware and Sound, Programs, User Accounts, Appearance and Personalization, Clock and Region, Ease of Access
+
+Question:
+Which subcategory would help you troubleshoot common problems?
+
+Svar: Security and Maintenance, File History, Backup and Restore, Administrative Tools, Windows Defender Firewall
+
+Question:
+Which subcategory allow a program through Windows Firewall?
+
+Svar: Windows Defender Firewall > Allow an app or feature through Windows Defender Firewall
+
+Question:
+Which subcategory allows you to view the basic network information and set up connections?
+
+Svar: Network and Sharing Center > View your basic network information and set up connections
+
+Question:
+Which subcategory allows you to choose what happens when you insert a media or device?
+
+Svar: Hardware and Sound > AutoPlay
+
+Question:
+Which subcategory allows you to add a printer?
+
+Svar: Hardware and Sound > View devices and printers > Add a printer
+
+Question:
+Which subcategory would you use to have a specific file type always open in a specified program?
+
+Svar: Default Programs > Change default settings for media or devices
+
+Question:
+Which subcategory would you use to uninstall a program?
+
+Svar: Programs and Features > Uninstall a program
+
+Question:
+Which subcategory would you use to install the Windows telnet client?
+
+Svar: Programs and Features > Turn Windows features on or off
+
+Question:
+Which subcategory would you use change the account type from administrator to standard?
+
+Svar: User Accounts > Change account type
+
+Question:
+Which subcategory would you use to view, edit, or remove the web and Windows credentials?
+
+Svar: Credential Manager
+
+Question:
+Which subcategory would you use to customize the Taskbar?
+
+Svar: Taskbar and Navigation
+
+Question:
+Which subcategory would you use to show hidden files and folders?
+
+Svar: File Explorer Options > View
+
+Question:
+Which subcategory would you use to show extensions for known file types?
+
+Svar: File Explorer Options > View
+
+Question:
+Which subcategory would you use to change the time zone?
+
+Svar: Date and Time > Change the time zone
+
+Question:
+Which subcategory would you use to change date format?
+
+Svar: Region > Formats
+
+Question:
+Which subcategory would you use to synchronize the time on a computer with a specific web server on the internet?
+
+Svar: Date and Time > Internet Time
+
+Question:
+Which subcategory would you use to configure the computer to read aloud any text on the screen?
+
+Svar: Ease of Access Center > Narrator
+
+Question:
+Which subcategory would you use to improve the computer’s ability to understand your voice and improve the dictation accuracy?
+
+Svar: Speech Recognition > Train your computer to better understand you

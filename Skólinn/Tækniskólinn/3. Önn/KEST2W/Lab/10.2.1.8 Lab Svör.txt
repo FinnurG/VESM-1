@@ -1,0 +1,55 @@
+Question:
+What type of File System is used on the NEW VOLUME (I:)?
+
+Svar:FAT32
+
+Question:
+How much Free Space is shown?
+
+Svar: 2,138,034,176 byets eða 1.99 GB
+
+Question:
+List the tabs found in the NEW VOLUME (I): Properties window?
+
+Svar: ReadyBoost, Previous Versions, Customize, General, Tools, Hardware, Sharing
+
+Question:
+What tabs are listed in the ITE Test Document Properties window? 
+
+Svar: General, Details, Previous Versions
+
+Question:
+What happens if you do not run as administrator when you open the command prompt?
+
+Svar: Það kemur "Access Denied as you do not have sufficient privileges or the disk may be locked by another process. you have to invoke this utility running in elevated mode and make sure the disk is unlocked"
+
+Questions:
+What type of File System is used for the ITE (I:) drive?
+
+Svar: NTFS
+
+Question:
+What are the tabs in the ITE (I:) Properties window?
+
+Svar: ReadyBoost, Previous Versions, Quota, Customize, General, Tools, Hardware, Sharing, Security
+
+Question:
+When the volume was FAT32, there were six tabs. What are the names of the new tabs that were added
+after the volume was converted to NTFS?
+
+Svar: Quota og Security var bætt við.
+
+Questions:
+What are the tabs in the ITE Test Document Properties window?
+
+Svar: General, Security, Details, Previous Versions
+
+Question: 
+When the volume was FAT32, there were three tabs. What is the name of the new tab that was added after the volume was converted to NTFS?
+
+Svar: Security var bætt við.
+
+Reflection Question:
+Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
+
+Svar: FAT32 Supportar ekki file permissions en NTFS gerir það með því að bæta file security þannig að system files geta bara verið lesin þannig að forrit geta ekki snert þau sem aukir öryggi notendans

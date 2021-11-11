@@ -1,0 +1,45 @@
+Question:
+What is the status of the service?
+
+Svar: Þetta service er ekki til á minni tölvu
+
+Question:
+Look for Windows Defender Antivirus Network Inspection Service (Windows 10) or Windows Defender Service (Windows 8.1) or Window Defender (Windows 7). Record the Windows Defender status.
+
+Svar: Þetta service er ekki til á minni tölvu
+
+Question:
+In the General tab, what is listed as the Source of the event? What is the severity level?
+
+Svar: SECURITY_PRODUCT_STATE_SNOOZED.
+
+Question:
+In Notepad, click File > Print. Record a listed printer below. Note: You do not need to install a physical printer.
+
+Svar: Fax, OneNote for Windows 10, Microsoft Print to PDF, Microsoft XPS Document Writer
+
+Question:
+What message did you receive? How would you fix this?
+
+Svar: Before you can preform printer-related tasks such as page setup or printing a document, you need to install a printer. Do you want to install a printer now? maður þarf að tengja prentara við tölvunna til að laga þetta
+
+Question:
+When DHCP Client stops, what other services will also be stopped?
+
+Svar: Intel(R) Dynamic Application Loader Host Interface Service, IP Helper, WinHTTP Web Proxy Auto-Discovery Service, Network List Service, Network Location Awareness
+
+Question:
+Why is it important to exercise care when managing services?
+
+Svar: Það gæti hætt service sem er í notgun og láta það eyðileggja eða glicha eitthvað
+
+Question:
+What is the full path name to the example file name?
+
+Svar: C:\PerfLogs\DESKTOP-BJU77NC_20210903-000001\DataCollector01.csv
+
+Question:
+What does the column farthest to the right show?
+
+Svar: Available MBytes
+

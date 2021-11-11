@@ -1,0 +1,11 @@
+Question:
+What options are available in the Driver tab?
+
+Svar: Driver Details, Update Driver, Roll Back Driver (er ekki hægt að ýta á samt), Disable Device og Uninstall Device
+
+
+Reflection Question
+After finalizing the Windows installation, what else can you do to improve your experience?
+
+Svar: Það er hægt að disablea Mouse acceleration ef þér langar þú gerir það með því að ýta á windows takann skrifa "Mouse Settings" > "Additional mouse options" > "Pointer Options" > Af checka "Enhance pointer precision"
+Líka er hægt að disablea Sticky Keys, Toggle Keys og Filter Keys með því að gera þetta Windows takann skrifa "Sticky Keys" Enter > Af klikka "Allow the shortcut key to start Sticky Keys, Toggle Keys og Filter Keys"

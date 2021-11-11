@@ -1,0 +1,57 @@
+Question:
+To see the next page, press the spacebar. What happens when you press enter?
+
+Svar: Fer á botninn og enterar einu sinni
+
+Question:
+Hvað gera þessi command
+
+CD: sýnir current directory
+
+CHKDSK: sýnir upplisingar um disk driveinn
+
+COPY: copyar eins og nafnið segir
+
+DEL: eyðir eins og nafnið segir
+
+DIR: sýnir directory af userinnum
+
+DISKPART: Opnar nýtt cmd til að managea disk og disk partitions og volume
+
+EXIT: Lokar cmdinu
+
+FORMAT: formattar diskinn í diskpart cm
+
+GPRESULT: setur reglur á hluti
+
+MD: make directory býr til directory
+
+TASKLIST: sýnir task list og hversu mikið memory það notar og aðrar uppýsingar
+
+RD: removes directory öfugt um 
+
+ROBOCOPY: sama og XCOPY en bara fleiri settings
+
+SHUTDOWN: er hægt að gera timer á shutdown og meira
+
+XCOPY: copyar hluti 
+
+Question:
+How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser?
+
+Svar: md > a > cd > a > md > b > cd > b > md > c > cd > c
+
+Question:
+What command did you use?
+
+Svar: cls
+
+Question:
+What is the last command that you have used? Press Esc on the keyboard to exit the dialog box.
+
+Svar: cls
+
+Question:
+What is the last command?
+
+Svar: cls

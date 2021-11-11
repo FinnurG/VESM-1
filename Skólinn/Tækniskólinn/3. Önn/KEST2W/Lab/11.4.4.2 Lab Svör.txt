@@ -1,0 +1,56 @@
+Question:
+What command would you use to display the results of tasklist one page at a time?
+
+Svar: tasklist | more
+
+Question:
+What is the option to list the modules that are associated with a task?
+
+Svar: /M
+
+Question:
+What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a few tasks that uses oleaut32.dll.
+
+Svar: tasklist /M ole32*, /M oleaut32.dll. Wildcard *
+
+Question: 
+What command would you use to find out all the tasks that are associated with your username?
+
+Svar: /fi "username eq FinnurG"
+
+Question:
+What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?
+
+Svar: /FI "cputime gt 01:40:00"
+
+Question:
+What command would you use if you wanted to terminate all process owned by a particular user?
+
+Svar: "taskkill /FI "username eq FinnurG"
+
+Question:
+What option would you use if you only wanted to scan the integrity of all the protected system files?
+
+Svar: /verifyonly
+
+Question:
+What would you add to the command so you can view the output one page at a time?
+
+Svar: bæti við | more svo það verður dism /online /get-drivers /all /format:table | more
+
+Question:
+Enter the command to log off your computer. Record the command below.
+
+Svar: shutdown /l
+
+Question:
+
+Questions:
+Record the command below. What warning message did you see?
+
+Svar: Windows will shut down in 2 minutes.
+
+Question:
+What command would you use to abort the shutdown?
+
+Svar: shutdown /a
