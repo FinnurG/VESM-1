@@ -34,10 +34,27 @@ def spurning(sp, sv):
         else:
             print("Þú giskaðir bæði skiptin rángt svarið er = ", sv)
 
-    #setja upp def fyrir lið 2
+#setja upp def fyrir lið 2
 
-
-
+def skrifaIskra(listi,nafntxt):
+    #opna csv skjalið og setja nýja línu
+    with open(nafntxt, "a+", newline="", encoding="utf-8-sig") as lesari:
+        #skrifa í csv skjalið það sem notendi vildi
+        write = csv.writer(lesari,delimiter =";")
+        #prennta csv skjalið
+        write.writerow(listi)
+        
+def breytaUppl(simaskra,nafn,nyttGSM):
+    pass
+def eyda(simaskra,nafn):
+    pass
+def prenta():
+    #opna csv skránna 
+    with open("simaskra.csv", "r", encoding="utf-8-sig") as file:
+        csv_reader = csv.reader(file)
+        #prenta hverja línu í einu
+        for row in csv_reader:
+            print(row)
 
 #setja valmynd upp
 on = True
@@ -68,8 +85,46 @@ while on ==True:
     
     #seinni valmynd
     elif val ==2:
-        pass
-    
+        kveikt = True
+        while kveikt == True:
+            valid = int(input("Veldu hvað þú vilt gera:"))
+            if valid == 1:
+                #búa til listann
+                simaskrainputid = []
+                #fá nafnið, kt og símanumerið frá notenda
+                nafnid = input("Komdu með nafn:")
+                kennitala = int(input("Komdu með kennitölu:"))
+                simanumer = int(input("Komdu með símanúmer:"))
+                #bæta nafninu, kt og símanúmerinu í listann
+                simaskrainputid.append(nafnid)
+                simaskrainputid.append(kennitala)
+                simaskrainputid.append(simanumer)
+                #kalla á skrifaIskra fallið með lista og csv skránni
+                skrifaIskra(simaskrainputid,"simaskra.csv")
+
+            elif valid == 2:
+                #hef ekki tíma til þess að klára þetta en búinn með svona 50% af þessu
+                with open("simaskra.csv", "r", encoding="utf-8-sig") as  file:
+                    csv_reader = csv.reader(file)
+
+                    lists_from_csv = []
+                    for row in csv_reader:
+                        lists_from_csv.append(row) 
+
+                        validnafn = input("Hvaða notenda viltu breyta:")
+                        validGSM = int(input("Nýja símanúmerið:"))
+                        breytaUppl("simaskra.csv",validnafn,validGSM)
+
+            # hef ekki tíma til að klára
+            elif valid == 3:
+                pass
+            elif valid ==4:
+                #kalla á prenta fallið
+                prenta()
+            elif valid ==5:
+                kveikt = False
+            else:
+                print("Þú valdir rángt")
     #slökkva
     elif val ==3:
         on = False
